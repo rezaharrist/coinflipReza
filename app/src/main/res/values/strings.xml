@@ -1,0 +1,7 @@
+<resources>
+
+        <string name="app_name">LemparKoinREZA</string>
+        <string name="button_start">Lemparkan Koin !</string>
+        <string name="button_restart">Ulangi</string>
+        <string name="button_exit">Keluar</string>
+</resources>
